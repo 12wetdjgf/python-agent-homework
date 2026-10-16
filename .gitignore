@@ -1,0 +1,11 @@
+# 本机接口配置和 Python 临时文件
+*.env
+__pycache__/
+# 私有会话和运行日志保留在本机
+runtime/
+# 本地学习过程材料，不发布私人 Drive 链接或草稿
+学习笔记.md
+新对话交接prompt.md
+Untitled-1.txt
+*.pem
+*.key

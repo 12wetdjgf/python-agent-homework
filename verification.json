@@ -1,0 +1,66 @@
+{
+  "scope": "offline-course-graders-and-local-mcp",
+  "all_passed": true,
+  "results": [
+    {
+      "grader": "grade.py",
+      "passed": true,
+      "exit_code": 0,
+      "summary": "总分：100/100"
+    },
+    {
+      "grader": "grade02.py",
+      "passed": true,
+      "exit_code": 0,
+      "summary": "总分：100/100"
+    },
+    {
+      "grader": "grade03.py",
+      "passed": true,
+      "exit_code": 0,
+      "summary": "总分：100/100"
+    },
+    {
+      "grader": "grade04.py",
+      "passed": true,
+      "exit_code": 0,
+      "summary": "总分：100/100"
+    },
+    {
+      "grader": "grade04_agent.py",
+      "passed": true,
+      "exit_code": 0,
+      "summary": "接线题总分：100/100"
+    },
+    {
+      "grader": "grade05.py",
+      "passed": true,
+      "exit_code": 0,
+      "summary": "总分：100/100"
+    },
+    {
+      "grader": "grade05_controls.py",
+      "passed": true,
+      "exit_code": 0,
+      "summary": "总分：100/100"
+    },
+    {
+      "grader": "grade06.py",
+      "passed": true,
+      "exit_code": 0,
+      "summary": "总分：100/100"
+    },
+    {
+      "grader": "grade06_events.py",
+      "passed": true,
+      "exit_code": 0,
+      "summary": "总分：100/100"
+    },
+    {
+      "grader": "grade07.py",
+      "passed": true,
+      "exit_code": 0,
+      "summary": "总分：100/100"
+    }
+  ]
+}
